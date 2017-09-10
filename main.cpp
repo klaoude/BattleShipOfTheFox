@@ -1,6 +1,7 @@
 #include "MainGame.h"
 
 ///klaoude le bg
+//nathan suce des bites
 
 int main(int argc, char** argv) 
 {
